@@ -1,0 +1,11 @@
+variable,mean,min,median,max,nmissing,eltype
+domination_number,1.75,1,2.0,3,0,Int64
+total_domination_number,2.625,2,2.0,4,0,Int64
+connected_domination_number,1.5,1,1.0,3,0,Int64
+independence_number,2.875,2,3.0,4,0,Int64
+zero_forcing_number,2.5,1,2.0,4,0,Int64
+diameter,2.875,2,3.0,4,0,Int64
+radius,1.875,1,2.0,3,0,Int64
+order,5.875,4,5.0,10,0,Int64
+independent_domination_number,1.75,1,2.0,3,0,Int64
+chromatic_number,2.875,2,3.0,4,0,Int64
